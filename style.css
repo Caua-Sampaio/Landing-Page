@@ -12,6 +12,21 @@ body {
     background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
 }
 
+.cabecalho-menu-item:hover{
+    border-bottom: 0.4px solid #f0f0f0;
+    ;
+}
+
+.conteudo-principal-escrito-button:hover{
+    background: #0F0F0F;
+    color: #F0F0F0;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.35);
+    transition: all 0.3s  ease-in-out;
+}
+
+
+
+
 .cabecalho{
     display: flex;
     flex-direction: row;  

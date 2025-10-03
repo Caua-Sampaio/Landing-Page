@@ -36,3 +36,56 @@ body {
     color: #FFF2E7;
 }
 
+/*--------------------------------------------------------------*/
+
+.conteudo{
+    border-top: 0.4px solid #f0f0f0;
+    margin-bottom: 48px;
+}
+
+.conteudo-principal{
+    display: flex;
+    flex-direction: row;  
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.conteudo-principal-escrito{
+    display: flex;
+    flex-direction: column;
+    gap: 32px;  
+    
+}
+
+.conteudo-principal-escrito-titulo{
+    font-family: 'Righteous', cursive;
+    font-weight: 400;
+    font-size: 64px;
+    color: #FFFFFF;
+}
+
+.conteudo-principal-escrito-subtitulo{
+    font-family: 'Fira Code', monospace;
+    font-weight: 400;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.conteudo-principal-escrito-button{
+    width: 180px;
+    height: 60px;
+    background: #F0F0F0;
+    border-radius: 8px;
+    border: none;
+    font-family: 'Fira Code', monospace;
+    font-weight: 500;
+    font-size: 18px;
+    color: #0F0F0F;
+    cursor: pointer;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+}
+
+.conteudo-principal-imagem{
+    width: 430px;
+}

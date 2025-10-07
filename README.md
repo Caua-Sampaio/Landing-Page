@@ -1,4 +1,4 @@
-Landing Page
+# Landing Page
 
 Projeto desenvolvido com base em um vídeo da Rafaella Ballerini, com o objetivo de praticar conceitos fundamentais de HTML e CSS, além de reforçar técnicas de layout responsivo e boas práticas de estruturação de código.
 
